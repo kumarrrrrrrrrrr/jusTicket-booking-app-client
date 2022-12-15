@@ -1,1 +1,1 @@
-export const BASE_URL = "https://jus-ticket.herokuapp.com/"
+export const BASE_URL = "https://justicket-server.onrender.com/"
